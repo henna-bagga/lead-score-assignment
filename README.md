@@ -1,3 +1,5 @@
 # lead_score_assignment
+# PROBLEM STATEMENT
 # An education company X Education , selling online courses to industry professionals The company markets its courses through several websites and search engines like Google. When people browse through these websites or fill up forms providing their email address or phone number, they are classified as a lead. The company is facing a problem of low lead conversion rate of 30% which means out of 100 leads contacted in a day, only 30 gets converted.
-
+# BUSINESS OBJECTIVES
+# The objective of case study is to help the company in making its lead identification process more efficient by identifying leads which are most likely to convert into paying customers or in other words hot leads and thus improve its lead conversion rate to 80%. To achieve this, a logistic regression model is to be built to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher lead score will mean higher chance of lead converting to paying customers and a lower lead score will mean cold lead and low chances of lead conversion.
